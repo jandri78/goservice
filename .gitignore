@@ -1,0 +1,8 @@
+# Ignorar binarios
+*.exe
+*.out
+*.test
+
+# Archivos de configuración o IDE
+.vscode/
+.idea/
